@@ -10,6 +10,10 @@ namespace SailAwayConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world");
+            Console.WriteLine("This change wil be committed now");
+
+
         }
     }
 }
